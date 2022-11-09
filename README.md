@@ -1,3 +1,5 @@
+<img src="https://s1.gifyu.com/images/El-texto-el-parrafo.gif" />
+
 <h1 align="center">Hola 👋, soy Adriel Lopez Decalle</h1>
 <h3 align="center">Full-Stack Developer</h3>
 
