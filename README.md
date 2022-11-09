@@ -2,6 +2,24 @@
 <h3 align="center">Full-Stack Developer</h3>
 
 <p align="left">
+  Hola me llamo Adriel y tengo 22 años, soy un estudiante avanzado en Análisis de Sistemas.
+Además me gradué en el bootcamp de Soy Henry como Full-Stack Developer, en el cual adquirí experiencia académica en las siguientes tecnologías: 
+
+- JavaScript
+- React
+- CSS
+- NodeJS
+- PostgreSQL
+- MongoDB
+- Redux
+- Express
+- Firebase
+- GitHub
+- Chakra UI ... entre otras
+
+Estoy muy motivado con todo mi aprendizaje durante 2022, planeo seguir formándome y me gustaría encontrar mi primera experiencia laboral.
+
+Contacto: adrielisaias1@gmail.com
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
